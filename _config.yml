@@ -1,20 +1,8 @@
-title: 'Art & Photography'
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.4425532
-favicon: null
 name: Lony Meyer Photography
-purpose: []
-analytics:
-  twitter: null
-  google: UA-70164307-1
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.4425532
+typography_spectrum: 0.1361702
+title: 'Art & Photography'
 collections:
   - index:
       navigable: true
@@ -27,10 +15,22 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-70164307-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8212766
+  brandColors: []
+  brandStrength: 0.5
   lightness: 0.3659574
   saturation: 0.606383
   rhythmicContrast: 0.6659575
-  brandColors: []
-typography_spectrum: 0.1361702
+purpose: []
