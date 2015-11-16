@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - tarantulas
   - passionate
@@ -16,8 +16,8 @@ keywords:
   - annoy
   - take
 description: 'My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California now for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.'
-datePublished: '2015-11-16T03:53:56.763Z'
-dateModified: '2015-11-16T03:53:52.880Z'
+datePublished: '2015-11-16T03:57:44.219Z'
+dateModified: '2015-11-16T03:57:40.476Z'
 author: []
 related: []
 app_links:
