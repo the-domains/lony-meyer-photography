@@ -1,16 +1,16 @@
 title: 'Art & Photography'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 layout_spectrum: 0.4425532
 favicon: null
 name: Lony Meyer Photography
 purpose: []
 analytics:
-  facebook: null
-  google: UA-70164307-1
   twitter: null
+  google: UA-70164307-1
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,9 +28,9 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.09319946402683854
-  saturation: 0.7261600682977587
+  brandStrength: 0.8212766
+  lightness: 0.3659574
+  saturation: 0.606383
+  rhythmicContrast: 0.6659575
   brandColors: []
-  lightness: 0.04890927788801491
-  rhythmicContrast: 0.9740273419301957
 typography_spectrum: 0.1361702
