@@ -20,8 +20,8 @@ app_links:
     package: com.fivehundredpx.viewer
 isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
 title: Old Church
-datePublished: '2015-11-16T00:57:05.568Z'
-dateModified: '2015-11-16T00:31:48.483Z'
+datePublished: '2015-11-16T00:57:38.531Z'
+dateModified: '2015-11-16T00:57:05.568Z'
 sourcePath: _posts/2015-11-16-old-church.md
 published: true
 inFeed: true
