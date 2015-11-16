@@ -20,10 +20,11 @@ app_links:
     url: 'https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer'
 isBasedOnUrl: 'https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer'
 title: Trees and Moss
-datePublished: '2015-11-16T00:57:39.180Z'
-dateModified: '2015-11-16T00:57:06.771Z'
+datePublished: '2015-11-16T01:17:42.308Z'
+dateModified: '2015-11-16T01:17:30.455Z'
 sourcePath: _posts/2015-11-16-trees-and-moss.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
