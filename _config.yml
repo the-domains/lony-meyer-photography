@@ -1,0 +1,23 @@
+name: Lony Meyer Photography
+favicon: null
+layout_spectrum: 0.2888369366992265
+typography_spectrum: 0.8877968105953187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09319946402683854
+  lightness: 0.04890927788801491
+  saturation: 0.7261600682977587
+  rhythmicContrast: 0.9740273419301957
+purpose: []
