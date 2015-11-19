@@ -16,8 +16,8 @@ keywords:
   - annoy
   - take
 description: 'My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California now for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.'
-datePublished: '2015-11-19T18:00:15.611Z'
-dateModified: '2015-11-19T18:00:11.969Z'
+datePublished: '2015-11-19T18:04:07.121Z'
+dateModified: '2015-11-19T18:04:01.320Z'
 author: []
 related: []
 app_links:
@@ -44,4 +44,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Lony Meyer</h1><p>My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California now for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.</p><img src="https://drscdn.500px.org/photo/128441021/m%3D1170/46f276cba9fc9e67483679e9e072d237" /></article>
+<article style=""><h1>Lony Meyer</h1><p>My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.</p><img src="https://drscdn.500px.org/photo/128441021/m%3D1170/46f276cba9fc9e67483679e9e072d237" /></article>
