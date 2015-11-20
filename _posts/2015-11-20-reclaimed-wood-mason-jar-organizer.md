@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: This organizer not only looks unique it also is also a piece of art displayed at your home.
-datePublished: '2015-11-20T02:23:38.173Z'
-dateModified: '2015-11-20T02:23:16.250Z'
+datePublished: '2015-11-20T02:29:48.794Z'
+dateModified: '2015-11-20T02:28:21.799Z'
 author: []
 title: Reclaimed Wood Mason Jar Organizer
+sourcePath: _posts/2015-11-20-reclaimed-wood-mason-jar-organizer.md
+published: true
 authors: []
 publisher:
   name: spreesy.com
   domain: www.spreesy.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-20-reclaimed-wood-mason-jar-organizer.md
-published: true
 url: reclaimed-wood-mason-jar-organizer/index.html
 _context: 'http://schema.org'
 _type: Article
