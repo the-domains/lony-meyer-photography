@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This organizer not only looks unique it also is also a piece of art displayed at your home.
-datePublished: '2015-11-20T02:29:48.794Z'
-dateModified: '2015-11-20T02:28:21.799Z'
+datePublished: '2015-11-20T02:35:24.840Z'
+dateModified: '2015-11-20T02:35:09.052Z'
 author: []
 title: Reclaimed Wood Mason Jar Organizer
 sourcePath: _posts/2015-11-20-reclaimed-wood-mason-jar-organizer.md
