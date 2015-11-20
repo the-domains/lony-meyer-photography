@@ -4,7 +4,7 @@
         <description><![CDATA[Art & Photography]]></description>
         <link>http://lonymeyer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 08:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 08:20:20 GMT</lastBuildDate>
         <atom:link href="http://lonymeyer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lony Meyer]]></title>
@@ -12,6 +12,13 @@
             <link>https://500px.com/lony</link>
             <guid isPermaLink="false">470c0755-ea07-4616-a783-ec40ac3d8932</guid>
             <pubDate>Fri, 20 Nov 2015 02:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Test Page]]></title>
+            <description><![CDATA[<article><h1>My Test Page</h1><p>We gather together</p></article>]]></description>
+            <link>http://lonymeyer.com/my-test-page/index.html</link>
+            <guid isPermaLink="false">3fce5611-6e08-48d3-9b68-9a4bd4a55b76</guid>
+            <pubDate>Fri, 20 Nov 2015 08:19:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Old Paint]]></title>
