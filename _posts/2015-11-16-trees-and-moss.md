@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: During my hike through the Norwegian Forest.
-datePublished: '2015-11-21T19:07:40.371Z'
-dateModified: '2015-11-21T18:56:25.888Z'
+datePublished: '2015-11-21T19:11:35.471Z'
+dateModified: '2015-11-21T19:11:32.295Z'
 author: []
 related: []
 app_links:
