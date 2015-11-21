@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: During my hike through the Norwegian Forest.
-datePublished: '2015-11-20T23:23:16.175Z'
-dateModified: '2015-11-20T23:23:13.505Z'
+datePublished: '2015-11-21T19:07:40.371Z'
+dateModified: '2015-11-21T18:56:25.888Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
     url: 'https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer'
-title: Trees and Moss
+title: Norway Vacation
 sourcePath: _posts/2015-11-16-trees-and-moss.md
 published: true
 authors: []
@@ -35,3 +35,5 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Trees and Moss</h1><p>During my hike through the Norwegian Forest.</p><img src="https://drscdn.500px.org/photo/105562221/m%3D2048/071725eff96555ff2440c9664b12e4b9" /></article>
+
+This was the most magical experience while hiking through the norwegian forest near to my dad's cabin. It was just a beautiful day and so lush and the smell like fresh rain made it even more beautiful.
