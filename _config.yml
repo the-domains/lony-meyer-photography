@@ -1,6 +1,6 @@
 name: Lony Meyer Photography
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25377
 typography_spectrum: 0.1361702
 title: 'Art & Photography'
 collections:
@@ -29,7 +29,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.5
+  brandStrength: 0.125
   lightness: 0.3659574
   saturation: 0.606383
   rhythmicContrast: 0.6659575
