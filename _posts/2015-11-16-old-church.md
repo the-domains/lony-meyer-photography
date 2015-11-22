@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Old Church somewhere in Norway
-datePublished: '2015-11-22T07:47:15.180Z'
-dateModified: '2015-11-22T07:44:09.621Z'
+datePublished: '2015-11-22T18:06:33.716Z'
+dateModified: '2015-11-22T18:06:25.026Z'
 author: []
 related: []
 app_links:
