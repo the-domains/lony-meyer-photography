@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Old Church somewhere in Norway
-datePublished: '2015-11-21T07:09:50.773Z'
-dateModified: '2015-11-21T07:09:47.412Z'
+datePublished: '2015-11-22T07:00:27.234Z'
+dateModified: '2015-11-22T07:00:23.589Z'
 author: []
 related: []
 app_links:
@@ -21,7 +21,7 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-title: Old Church
+title: Norway
 sourcePath: _posts/2015-11-16-old-church.md
 published: true
 authors: []
