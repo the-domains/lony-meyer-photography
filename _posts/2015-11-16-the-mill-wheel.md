@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: There lies the old Mill by the Road.
-datePublished: '2015-11-16T22:30:14.224Z'
-dateModified: '2015-11-16T22:30:10.879Z'
+datePublished: '2015-11-22T07:02:06.185Z'
+dateModified: '2015-11-22T07:02:02.781Z'
 author: []
 related: []
 app_links:
@@ -21,7 +21,7 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-title: The Mill Wheel
+title: California
 sourcePath: _posts/2015-11-16-the-mill-wheel.md
 published: true
 authors: []
