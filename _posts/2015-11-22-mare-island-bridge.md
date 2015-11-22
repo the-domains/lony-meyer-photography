@@ -16,8 +16,8 @@ keywords:
   - credits
   - submitted
 description: Images on Pixoto are ranked by members using ImageDuel
-datePublished: '2015-11-22T18:01:26.729Z'
-dateModified: '2015-11-22T18:01:22.210Z'
+datePublished: '2015-11-22T18:04:01.620Z'
+dateModified: '2015-11-22T18:03:58.165Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Mare Island Bridge</h1><img src="http://lh3.ggpht.com/vz9X-qHQcZ_OMorz2dKC6HTN0oPB1ACCf_W1FME-e5MlgnJtt0_l_Udq1qfmTKkskTt28UKJjtR2YVVQj-RyL0g=s700" /></article>
+<article style=""><h1>Mare Island Bridge</h1><p>Images on Pixoto are ranked by members using ImageDuel</p><img src="http://lh3.ggpht.com/vz9X-qHQcZ_OMorz2dKC6HTN0oPB1ACCf_W1FME-e5MlgnJtt0_l_Udq1qfmTKkskTt28UKJjtR2YVVQj-RyL0g=s700" /></article>
