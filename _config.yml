@@ -1,8 +1,20 @@
-name: Lony Meyer Photography
-favicon: null
-layout_spectrum: 0.76298
-typography_spectrum: 0.00084
 title: Photography by Lony Meyer
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.9957447
+favicon: null
+name: Lony Meyer Photography
+purpose: []
+analytics:
+  twitter: null
+  google: UA-70164307-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -15,27 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-70164307-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.4446808
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
   brandColors:
     - '#010100'
     - '#b0b7a8'
     - '#6a5f40'
     - '#8f9687'
     - '#392b00'
-  brandStrength: 0.6875
-  lightness: 0.4375
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.00084
