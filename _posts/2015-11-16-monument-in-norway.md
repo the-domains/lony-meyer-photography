@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Twist around manhood
-datePublished: '2015-11-22T07:06:47.826Z'
-dateModified: '2015-11-22T07:06:43.841Z'
+datePublished: '2015-11-22T07:22:06.589Z'
+dateModified: '2015-11-22T07:22:03.491Z'
 author: []
 related: []
 app_links:
@@ -34,4 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Monument in Norway</h1><p>The Twist around manhood</p><img src="https://drscdn.500px.org/photo/105461273/m%3D2048/a999dfcb4ee77b2f301eddcc0f62c02f" /></article>
+<article style=""><h1>Norway</h1><p>The Twist around manhood</p><img src="https://drscdn.500px.org/photo/105461273/m%3D2048/a999dfcb4ee77b2f301eddcc0f62c02f" /></article>
