@@ -1,6 +1,6 @@
 name: Lony Meyer Photography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76298
 typography_spectrum: 0.00084
 title: Photography by Lony Meyer
 collections:
@@ -34,8 +34,8 @@ color:
     - '#6a5f40'
     - '#8f9687'
     - '#392b00'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0.75
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
