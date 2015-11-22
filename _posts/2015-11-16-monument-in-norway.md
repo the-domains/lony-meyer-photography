@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Twist around manhood
-datePublished: '2015-11-22T07:22:06.589Z'
-dateModified: '2015-11-22T07:22:03.491Z'
+datePublished: '2015-11-22T07:31:15.293Z'
+dateModified: '2015-11-22T07:31:12.146Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-title: Monument in Norway
+title: Norway
 sourcePath: _posts/2015-11-16-monument-in-norway.md
 published: true
 authors: []
