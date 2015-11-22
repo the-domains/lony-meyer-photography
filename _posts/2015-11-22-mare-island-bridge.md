@@ -15,9 +15,9 @@ keywords:
   - imagescore
   - credits
   - submitted
-description: Images on Pixoto are ranked by members using ImageDuel
-datePublished: '2015-11-22T18:04:01.620Z'
-dateModified: '2015-11-22T18:03:58.165Z'
+description: Beautiful night view looking at the Mare Island Bridge
+datePublished: '2015-11-22T18:05:25.986Z'
+dateModified: '2015-11-22T18:05:23.420Z'
 author: []
 related: []
 app_links: []
