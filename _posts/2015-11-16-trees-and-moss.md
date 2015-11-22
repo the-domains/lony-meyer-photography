@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: During my hike through the Norwegian Forest.
-datePublished: '2015-11-22T07:21:18.545Z'
-dateModified: '2015-11-22T07:21:16.839Z'
+datePublished: '2015-11-22T07:30:43.608Z'
+dateModified: '2015-11-22T07:30:37.734Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
     url: 'https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer'
-title: 'Trees & Moss'
+title: Norway
 sourcePath: _posts/2015-11-16-trees-and-moss.md
 published: true
 authors: []
