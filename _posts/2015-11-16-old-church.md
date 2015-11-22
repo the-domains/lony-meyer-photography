@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Old Church somewhere in Norway
-datePublished: '2015-11-22T07:42:24.875Z'
-dateModified: '2015-11-22T07:42:22.119Z'
+datePublished: '2015-11-22T07:47:15.180Z'
+dateModified: '2015-11-22T07:44:09.621Z'
 author: []
 related: []
 app_links:
