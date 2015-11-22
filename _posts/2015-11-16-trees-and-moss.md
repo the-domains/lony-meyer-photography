@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: During my hike through the Norwegian Forest.
-datePublished: '2015-11-21T19:14:43.932Z'
-dateModified: '2015-11-21T19:14:40.560Z'
+datePublished: '2015-11-22T00:40:17.950Z'
+dateModified: '2015-11-21T21:55:18.069Z'
 author: []
 related: []
 app_links:
@@ -37,3 +37,4 @@ _type: MediaObject
 <article style=""><h1>Norway</h1><p>During my hike through the Norwegian Forest.</p><img src="https://drscdn.500px.org/photo/105562221/m%3D2048/071725eff96555ff2440c9664b12e4b9" /></article>
 
 This was the most magical experience while hiking through the norwegian forest near to my dad's cabin. It was just a beautiful day and so lush and the smell like fresh rain made it even more beautiful.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85551461-f4cb-4bb6-b1e5-df162dd91489.jpg)
