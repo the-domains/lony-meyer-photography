@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://500px.com/lony'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - tarantulas
   - passionate
@@ -17,8 +17,8 @@ keywords:
   - annoy
   - take
 description: 'My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California now for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.'
-datePublished: '2015-11-22T18:14:04.272Z'
-dateModified: '2015-11-22T18:14:01.267Z'
+datePublished: '2015-11-23T06:20:39.674Z'
+dateModified: '2015-11-23T06:20:38.522Z'
 author: []
 related: []
 app_links:
