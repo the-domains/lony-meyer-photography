@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer'
 inLanguage: null
 starred: false
 keywords: []
 description: The tools shall rest for now.
-datePublished: '2015-11-22T07:47:24.407Z'
-dateModified: '2015-11-22T07:45:46.990Z'
+datePublished: '2015-11-23T06:20:06.133Z'
+dateModified: '2015-11-23T06:20:03.265Z'
 author: []
 related: []
 app_links:
@@ -29,7 +30,6 @@ publisher:
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-url: california/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
