@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
 inLanguage: null
 starred: false
 keywords: []
 description: Old Church somewhere in Norway
-datePublished: '2015-11-22T18:09:57.334Z'
-dateModified: '2015-11-22T18:09:53.271Z'
+datePublished: '2015-11-23T06:19:23.615Z'
+dateModified: '2015-11-23T06:19:15.772Z'
 author: []
 related: []
 app_links:
@@ -29,7 +30,6 @@ publisher:
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-url: norway/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
