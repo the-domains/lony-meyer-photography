@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - credits
   - submitted
 description: Beautiful night view looking at the Mare Island Bridge
-datePublished: '2015-11-23T06:24:56.695Z'
-dateModified: '2015-11-23T06:24:52.436Z'
+datePublished: '2015-11-23T20:15:49.553Z'
+dateModified: '2015-11-23T20:15:45.635Z'
 author: []
 related: []
 app_links: []
