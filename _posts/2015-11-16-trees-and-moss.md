@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer'
 inLanguage: null
 starred: false
 keywords: []
 description: During my hike through the Norwegian Forest.
-datePublished: '2015-11-22T07:30:43.608Z'
-dateModified: '2015-11-22T07:30:37.734Z'
+datePublished: '2015-11-23T06:18:26.399Z'
+dateModified: '2015-11-23T06:18:21.934Z'
 author: []
 related: []
 app_links:
@@ -29,7 +30,6 @@ publisher:
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-url: trees-and-moss/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
