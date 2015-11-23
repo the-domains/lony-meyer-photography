@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://500px.com/photo/105461273/monument-in-norway-by-lony-meyer'
 inLanguage: null
 starred: false
 keywords: []
 description: The Twist around manhood
-datePublished: '2015-11-22T18:09:36.540Z'
-dateModified: '2015-11-22T18:09:33.989Z'
+datePublished: '2015-11-23T06:18:43.137Z'
+dateModified: '2015-11-23T06:18:40.479Z'
 author: []
 related: []
 app_links:
@@ -29,7 +30,6 @@ publisher:
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-url: monument-in-norway/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
