@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.pixoto.com/images-photography/black-and-white/landscapes/mare-island-bridge-4510007453286400'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - credits
   - submitted
 description: Beautiful night view looking at the Mare Island Bridge
-datePublished: '2015-11-23T20:15:49.553Z'
-dateModified: '2015-11-23T20:15:45.635Z'
+datePublished: '2015-11-24T01:49:14.046Z'
+dateModified: '2015-11-24T01:49:11.949Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: www.pixoto.com
   url: 'http://www.pixoto.com'
   favicon: 'http://cdn.pixoto.com/assets/i/favicon.png'
-url: mare-island-bridge/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
