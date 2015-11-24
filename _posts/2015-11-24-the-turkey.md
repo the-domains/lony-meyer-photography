@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to cook the perfect Turkey
-datePublished: '2015-11-24T01:49:28.447Z'
-dateModified: '2015-11-24T01:46:57.074Z'
+datePublished: '2015-11-24T01:53:14.169Z'
+dateModified: '2015-11-24T01:53:11.077Z'
 author: []
 title: The Turkey
+sourcePath: _posts/2015-11-24-the-turkey.md
+published: true
 authors: []
 publisher:
   name: serenabakessimplyfromscratch.com
   domain: www.serenabakessimplyfromscratch.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-the-turkey.md
-published: true
 url: the-turkey/index.html
 _context: 'http://schema.org'
 _type: Article
