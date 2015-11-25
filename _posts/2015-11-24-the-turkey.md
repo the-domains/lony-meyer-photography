@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to cook the perfect Turkey
-datePublished: '2015-11-24T02:02:18.829Z'
-dateModified: '2015-11-24T02:02:16.592Z'
+datePublished: '2015-11-25T01:34:37.577Z'
+dateModified: '2015-11-25T01:34:34.461Z'
 author: []
 title: The Turkey
 sourcePath: _posts/2015-11-24-the-turkey.md
