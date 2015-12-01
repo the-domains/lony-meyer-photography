@@ -17,8 +17,8 @@ keywords:
   - credits
   - submitted
 description: Beautiful night view looking at the Mare Island Bridge
-datePublished: '2015-11-24T01:49:14.046Z'
-dateModified: '2015-11-24T01:49:11.949Z'
+datePublished: '2015-12-01T22:16:28.792Z'
+dateModified: '2015-12-01T22:16:24.276Z'
 author: []
 related: []
 app_links: []
