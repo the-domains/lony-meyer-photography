@@ -1,5 +1,8 @@
-title: Photography by Lony Meyer
-purpose: []
+name: 'Lony Meyer '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.06713208
+title: Lony Meyer Photography
 collections:
   - index:
       path: /
@@ -12,29 +15,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-70164307-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5773362
-  brandStrength: 0.7964554
-  rhythmicContrast: 0.5204082
   brandColors:
     - '#0D0C04'
     - '#495543'
     - '#657F66'
     - '#A3C7AA'
+  brandStrength: 0.7964554
   lightness: 0.5332975
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-70164307-1
-  facebook: null
-favicon: null
-name: Lony Meyer Photography
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.06713208
-layout_spectrum: 1
+  saturation: 0.5773362
+  rhythmicContrast: 0.5204082
+purpose: []
