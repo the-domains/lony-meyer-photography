@@ -15,9 +15,9 @@ keywords:
   - photography
   - annoy
   - take
-description: 'My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California now for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.'
-datePublished: '2016-03-17T20:32:20.839Z'
-dateModified: '2016-03-17T20:30:18.371Z'
+description: ''
+datePublished: '2016-03-17T21:12:21.833Z'
+dateModified: '2016-03-17T20:42:13.267Z'
 author: []
 related: []
 app_links:
