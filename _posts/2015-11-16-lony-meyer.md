@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://500px.com/lony'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - annoy
   - take
 description: 'My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California now for a number of years now. Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts.'
-datePublished: '2016-03-17T20:27:41.740Z'
-dateModified: '2016-03-17T20:25:45.570Z'
+datePublished: '2016-03-17T20:32:20.839Z'
+dateModified: '2016-03-17T20:30:18.371Z'
 author: []
 related: []
 app_links:
@@ -40,11 +39,12 @@ publisher:
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
+url: lony-meyer/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72cbd260-29e1-4435-a7e5-6226b9596d5d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad247c34973bd4e652de4bd8677d7863ca691e34.png)
 
 [][0]
 
