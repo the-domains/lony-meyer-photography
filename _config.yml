@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.5773362
-  brandStrength: 0.7964554
-  rhythmicContrast: 0.5204082
+  brandStrength: 0.7803437
+  lightness: 0.5332975
   brandColors:
     - '#0D0C04'
     - '#495543'
     - '#657F66'
     - '#A3C7AA'
-  lightness: 0.5332975
+  rhythmicContrast: 0.5204082
 cta:
   bucket: null
   version: null
@@ -30,11 +30,11 @@ analytics:
   twitter: null
   google: UA-70164307-1
   facebook: null
-name: Lony Meyer
 favicon: null
+name: Lony Meyer
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.06928033
-layout_spectrum: 0.49519
+typography_spectrum: 0.07465091
+layout_spectrum: 1
