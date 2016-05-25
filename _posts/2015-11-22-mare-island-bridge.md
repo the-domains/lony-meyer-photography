@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - image
   - votes
@@ -16,20 +16,19 @@ keywords:
   - credits
   - submitted
 description: Beautiful night view looking at the Mare Island Bridge
-datePublished: '2015-12-01T23:26:01.140Z'
-dateModified: '2015-12-01T23:25:54.137Z'
+datePublished: '2016-05-25T18:17:53.406Z'
+dateModified: '2016-01-22T06:58:14.185Z'
 author: []
 related: []
 app_links: []
 title: Mare Island Bridge
 sourcePath: _posts/2015-11-22-mare-island-bridge.md
-published: true
 authors: []
 publisher:
+  favicon: 'http://cdn.pixoto.com/assets/i/favicon.png'
   name: Pixoto.com
   domain: www.pixoto.com
   url: 'http://www.pixoto.com'
-  favicon: 'http://cdn.pixoto.com/assets/i/favicon.png'
 url: mare-island-bridge/index.html
 _context: 'http://schema.org'
 _type: MediaObject
