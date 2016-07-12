@@ -1,9 +1,9 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://500px.com/lony'
 inLanguage: en
-starred: true
 keywords:
   - tarantulas
   - passionate
@@ -16,9 +16,11 @@ keywords:
   - annoy
   - take
 description: ''
-datePublished: '2016-03-17T21:12:21.833Z'
-dateModified: '2016-03-17T20:42:13.267Z'
-author: []
+datePublished: '2016-07-12T20:23:53.221Z'
+dateModified: '2016-07-12T20:23:35.004Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links:
   - app_name: 500px
@@ -30,16 +32,16 @@ app_links:
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
     url: 'https://500px.com/Lony'
-title: ''
+title: Header
 sourcePath: _posts/2015-11-16-lony-meyer.md
-published: true
 authors: []
 publisher:
   name: 500px
   domain: 500px.com
   url: 'https://500px.com'
-  favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-url: lony-meyer/index.html
+  favicon: >-
+    https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -47,5 +49,6 @@ _type: MediaObject
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad247c34973bd4e652de4bd8677d7863ca691e34.png)
 
 [][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6262822-c026-4851-933e-30ede1f9fa1c.jpg)
 
 [0]: null
