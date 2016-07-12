@@ -16,8 +16,8 @@ keywords:
   - annoy
   - take
 description: ''
-datePublished: '2016-07-12T20:23:53.221Z'
-dateModified: '2016-07-12T20:23:35.004Z'
+datePublished: '2016-07-12T20:27:37.887Z'
+dateModified: '2016-07-12T20:27:31.085Z'
 author:
   - name: ''
     url: ''
@@ -32,7 +32,7 @@ app_links:
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
     url: 'https://500px.com/Lony'
-title: Header
+title: ''
 sourcePath: _posts/2015-11-16-lony-meyer.md
 authors: []
 publisher:
@@ -46,9 +46,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad247c34973bd4e652de4bd8677d7863ca691e34.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/584a390b66fd270472c2164995749536/croprotate.jpg?cropheight=1359&cropwidth=2000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa6262822-c026-4851-933e-30ede1f9fa1c.jpg&x=0&y=0)
 
 [][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6262822-c026-4851-933e-30ede1f9fa1c.jpg)
 
 [0]: null
