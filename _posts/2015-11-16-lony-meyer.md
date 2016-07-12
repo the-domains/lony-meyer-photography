@@ -16,8 +16,8 @@ keywords:
   - annoy
   - take
 description: ''
-datePublished: '2016-07-12T20:28:52.956Z'
-dateModified: '2016-07-12T20:27:46.481Z'
+datePublished: '2016-07-12T21:51:06.754Z'
+dateModified: '2016-07-12T21:16:54.289Z'
 author:
   - name: ''
     url: ''
@@ -46,8 +46,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/584a390b66fd270472c2164995749536/croprotate.jpg?cropheight=1359&cropwidth=2000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa6262822-c026-4851-933e-30ede1f9fa1c.jpg&x=0&y=0)
-
 [][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe5013c7-47de-4a73-b51e-72fc79974770.png)
 
 [0]: null
