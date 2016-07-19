@@ -15,8 +15,8 @@ description: >-
   created that day!         I am very passionate about exotic animals; I have a
   collection of Tarantulas at home, which are cool to photograph.  I hope you
   take joy in looking at my work.
-datePublished: '2016-07-18T18:26:06.219Z'
-dateModified: '2016-07-18T18:26:05.849Z'
+datePublished: '2016-07-18T18:28:59.184Z'
+dateModified: '2016-07-18T18:28:45.404Z'
 app_links: []
 author:
   - name: ''
