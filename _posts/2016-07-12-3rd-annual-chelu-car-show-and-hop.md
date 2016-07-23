@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T20:05:26.999Z'
+datePublished: '2016-07-23T20:07:04.864Z'
 sourcePath: _posts/2016-07-12-3rd-annual-chelu-car-show-and-hop.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,8 +9,8 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-23T20:05:26.261Z'
-title: LM Copyright 2016
+dateModified: '2016-07-23T20:07:03.924Z'
+title: ''
 publisher: {}
 description: Look at that red
 inLanguage: null
@@ -19,4 +19,4 @@ starred: false
 _type: Article
 
 ---
-![Look at that red](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d84937411683784e70a9c0101b33cdd4/croprotate.jpg?cropheight=3262&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd613c24-f3c2-4138-bd6d-69871fe7b4e2.jpg&x=0&y=0)
+![Look at that red](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6555fce-f0ad-4c87-90eb-1de83153bd01.png)
