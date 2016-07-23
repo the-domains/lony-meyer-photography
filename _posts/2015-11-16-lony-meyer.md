@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T19:19:31.424Z'
+datePublished: '2016-07-23T19:38:00.127Z'
 sourcePath: _posts/2015-11-16-lony-meyer.md
 inFeed: true
 isBasedOnUrl: 'https://500px.com/lony'
@@ -17,11 +17,9 @@ keywords:
   - annoy
   - take
 related: []
-author:
-  - name: Lony Meyer
-    url: ''
+author: []
 via: {}
-dateModified: '2016-07-23T19:19:30.478Z'
+dateModified: '2016-07-23T19:37:58.941Z'
 title: ''
 app_links:
   - type: ios
@@ -33,8 +31,7 @@ app_links:
     app_store_id: '471965292'
     type: android
     url: 'https://500px.com/Lony'
-publisher:
-  name: Lony Meyer
+publisher: {}
 description: ''
 inLanguage: en
 inNav: false
