@@ -19,7 +19,13 @@ analytics:
   twitter: null
   google: UA-70164307-1
   facebook: null
-name: Welcome
+author:
+  name: Lony Meyer
+  email: lony@lonymeyer.com
+  url: lonymeyer.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/73da66f3-68cf-45b2-9961-b24e223ffb9b.png
+name: Welcome to
 cta:
   bucket: null
   version: null
@@ -29,7 +35,8 @@ navigation:
     url: 2015-11-16-lony-meyer.html
     name: ...
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70ef4a0-b355-403b-9235-072ec13cf922.png
 collections:
   - index:
       path: /
