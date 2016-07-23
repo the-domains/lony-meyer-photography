@@ -1,5 +1,35 @@
-title: null
-purpose: []
+typography_spectrum: 0.044346979120746255
+color:
+  saturation: 0.34498570417054
+  brandStrength: 0.6745532003697008
+  lightness: 0.06373697961680591
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  rhythmicContrast: 0.839318489190191
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6816992650274187
+analytics:
+  twitter: null
+  google: UA-70164307-1
+  facebook: null
+name: Welcome
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - id: 470c0755-ea07-4616-a783-ec40ac3d8932
+    url: 2015-11-16-lony-meyer.html
+    name: ...
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.34498570417054
-  brandStrength: 0.6745532003697008
-  lightness: 0.06373697961680591
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  rhythmicContrast: 0.839318489190191
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-70164307-1
-  facebook: null
-favicon: null
-name: Welcome
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.044346979120746255
-layout_spectrum: 0.6816992650274187
+title: null
+purpose: []
