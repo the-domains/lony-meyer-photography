@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T19:19:06.170Z'
+datePublished: '2016-07-23T19:19:31.424Z'
 sourcePath: _posts/2015-11-16-lony-meyer.md
 inFeed: true
 isBasedOnUrl: 'https://500px.com/lony'
@@ -21,7 +21,7 @@ author:
   - name: Lony Meyer
     url: ''
 via: {}
-dateModified: '2016-07-23T19:19:05.289Z'
+dateModified: '2016-07-23T19:19:30.478Z'
 title: ''
 app_links:
   - type: ios
