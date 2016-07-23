@@ -27,7 +27,7 @@ author:
   url: lonymeyer.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/73da66f3-68cf-45b2-9961-b24e223ffb9b.png
-name: Welcome to
+name: Lony Meyer Photography
 cta:
   bucket: null
   version: null
@@ -51,5 +51,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Lony Meyer Photography
+title: ''
 purpose: []
