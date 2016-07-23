@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T20:10:40.994Z'
+datePublished: '2016-07-23T20:13:07.457Z'
 sourcePath: _posts/2016-07-12-3rd-annual-chelu-car-show-and-hop.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-23T20:10:40.241Z'
+dateModified: '2016-07-23T20:13:06.738Z'
 title: ''
 publisher: {}
 description: ''
