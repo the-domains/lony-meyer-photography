@@ -1,4 +1,6 @@
 typography_spectrum: 0.044346979120746255
+content_rating:
+  adult: false
 color:
   saturation: 0.34498570417054
   brandStrength: 0.6745532003697008
@@ -49,5 +51,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: null
+title: Lony Meyer Photography
 purpose: []
