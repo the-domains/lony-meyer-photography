@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T20:02:04.049Z'
+datePublished: '2016-07-23T20:03:23.610Z'
 sourcePath: _posts/2016-07-12-3rd-annual-chelu-car-show-and-hop.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,8 +9,8 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-23T20:02:03.578Z'
-title: ''
+dateModified: '2016-07-23T20:03:23.062Z'
+title: LM Copyright 2016
 publisher: {}
 description: Look at that red
 inLanguage: null
