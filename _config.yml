@@ -32,11 +32,7 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - id: 470c0755-ea07-4616-a783-ec40ac3d8932
-    url: 2015-11-16-lony-meyer.html
-    name: ...
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70ef4a0-b355-403b-9235-072ec13cf922.png
 collections:
