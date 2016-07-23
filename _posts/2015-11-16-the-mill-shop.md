@@ -1,16 +1,18 @@
 ---
+datePublished: '2016-07-23T19:14:25.681Z'
+sourcePath: _posts/2015-11-16-the-mill-shop.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer'
-inLanguage: null
-starred: false
+authors: []
+hasPage: false
 keywords: []
-description: The tools shall rest for now.
-datePublished: '2015-11-23T06:20:06.133Z'
-dateModified: '2015-11-23T06:20:03.265Z'
-author: []
 related: []
+author:
+  - name: Lony Meyer
+    url: ''
+via: {}
+dateModified: '2016-07-23T19:14:25.107Z'
+title: California
 app_links:
   - type: ios
     app_name: 500px
@@ -21,17 +23,16 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-title: California
-sourcePath: _posts/2015-11-16-the-mill-shop.md
-published: true
-authors: []
 publisher:
-  name: 500px
-  domain: 500px.com
-  url: 'https://500px.com'
-  favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
+  name: Lony Meyer
+description: The Mill Shop
+inLanguage: null
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>California</h1><p>The tools shall rest for now.</p><img src="https://drscdn.500px.org/photo/127481031/m%3D2048/27cce46f0c699bf0ee1e312410a1f6fe" /></article>
+# California
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77e1503b617af9cf92dea84dbe42f22906fdb777.jpg" /><h1>The Old Woodshop</h1><p>The Mill Shop</p></article>
