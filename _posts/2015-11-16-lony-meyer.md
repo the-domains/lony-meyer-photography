@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-23T19:38:47.193Z'
+datePublished: '2016-07-23T19:40:40.401Z'
 sourcePath: _posts/2015-11-16-lony-meyer.md
 inFeed: true
-isBasedOnUrl: 'https://500px.com/lony'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - tarantulas
   - passionate
@@ -19,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-23T19:38:46.091Z'
+dateModified: '2016-07-23T19:40:40.056Z'
 title: ''
 app_links:
   - type: ios
@@ -36,6 +35,7 @@ description: ''
 inLanguage: en
 inNav: false
 starred: true
+url: header/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
