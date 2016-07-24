@@ -1,16 +1,18 @@
 ---
+datePublished: '2016-07-24T20:50:26.840Z'
+sourcePath: _posts/2015-11-16-old-church.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
-inLanguage: null
-starred: false
+authors: []
+hasPage: false
 keywords: []
-description: Old Church somewhere in Norway
-datePublished: '2015-11-23T06:19:23.615Z'
-dateModified: '2015-11-23T06:19:15.772Z'
-author: []
 related: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-07-24T20:50:26.227Z'
+title: Norway
 app_links:
   - type: ios
     app_name: 500px
@@ -21,17 +23,18 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-title: Norway
-sourcePath: _posts/2015-11-16-old-church.md
-published: true
-authors: []
-publisher:
-  name: 500px
-  domain: 500px.com
-  url: 'https://500px.com'
-  favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
+publisher: {}
+description: Old Church somewhere in Norway
+inLanguage: null
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Old Church</h1><p>Old Church somewhere in Norway</p><img src="https://drscdn.500px.org/photo/105452797/m%3D2048/44061a176a071740cb535aa2cb67856b" /></article>
+# Norway
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e17083333e40e429daa003cb1ef7ee00cbb99e.jpg" /><h1>Old Church</h1><p>Old Church somewhere in Norway</p></article>
+
+![Cloudberry](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac552ea8eed88a85c0d2dbaca82de58ef33bec8.jpg)
+![Kviknes Hotel in Balestrand Norway.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada592-e966-467b-8705-690e4a6f9f82.jpg)
