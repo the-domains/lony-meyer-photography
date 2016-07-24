@@ -41,6 +41,10 @@ navigation:
     url: 2015-11-16-trees-and-moss.html
     name: Norway
     type: content
+  - id: b7389f8e-5b1b-4015-b072-cfd39223b0b0
+    url: 2016-07-17-lonymeyer.html
+    name: My Bio
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70ef4a0-b355-403b-9235-072ec13cf922.png
 collections:
