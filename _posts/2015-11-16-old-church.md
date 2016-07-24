@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T20:50:26.840Z'
+datePublished: '2016-07-24T20:51:18.352Z'
 sourcePath: _posts/2015-11-16-old-church.md
 inFeed: true
 isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
@@ -7,11 +7,9 @@ authors: []
 hasPage: false
 keywords: []
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-07-24T20:50:26.227Z'
+dateModified: '2016-07-24T20:51:16.513Z'
 title: Norway
 app_links:
   - type: ios
@@ -34,7 +32,7 @@ _type: MediaObject
 ---
 # Norway
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e17083333e40e429daa003cb1ef7ee00cbb99e.jpg" /><h1>Old Church</h1><p>Old Church somewhere in Norway</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e17083333e40e429daa003cb1ef7ee00cbb99e.jpg" /><p>Old Church somewhere in Norway</p></article>
 
 ![Cloudberry](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac552ea8eed88a85c0d2dbaca82de58ef33bec8.jpg)
 ![Kviknes Hotel in Balestrand Norway.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada592-e966-467b-8705-690e4a6f9f82.jpg)
