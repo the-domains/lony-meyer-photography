@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-07-23T19:16:53.013Z'
+datePublished: '2016-07-24T20:27:04.016Z'
 sourcePath: _posts/2015-11-16-trees-and-moss.md
 inFeed: true
-isBasedOnUrl: 'https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-23T19:16:42.930Z'
+dateModified: '2016-07-24T20:27:03.467Z'
 title: Norway
 app_links:
   - type: ios
@@ -31,6 +30,7 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
+url: norway/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
