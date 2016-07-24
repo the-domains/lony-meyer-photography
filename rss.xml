@@ -4,7 +4,7 @@
         <description><![CDATA[Lony Meyer Photography]]></description>
         <link>http://lonymeyer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 20:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 20:27:02 GMT</lastBuildDate>
         <atom:link href="http://lonymeyer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Bio]]></title>
@@ -12,13 +12,6 @@
             <link>http://lonymeyer.com/my-bio/index.html</link>
             <guid isPermaLink="false">b7389f8e-5b1b-4015-b072-cfd39223b0b0</guid>
             <pubDate>Sun, 24 Jul 2016 20:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Norway]]></title>
-            <description><![CDATA[<article><h1>Norway</h1><p>This was the most magical experience while hiking through the Norwegian forest near to my dad's cabin. It was just a beautiful day and so lush and the smell like fresh rain made it even more beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7677b51757bece182b3a33e15158a939b9c7521b.jpg"></article>]]></description>
-            <link>http://lonymeyer.com/norway/index.html</link>
-            <guid isPermaLink="false">6ef0d8d6-b65c-44d9-966d-1e70050eadea</guid>
-            <pubDate>Sun, 24 Jul 2016 20:27:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mare Island]]></title>
@@ -40,6 +33,13 @@
             <link>https://500px.com/photo/127481025/the-mill-wheel-by-lony-meyer</link>
             <guid isPermaLink="false">c79ba670-8571-4b76-b886-f4b875a2d791</guid>
             <pubDate>Sat, 23 Jul 2016 19:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norway]]></title>
+            <description><![CDATA[<article><h1>Norway</h1><p>This was the most magical experience while hiking through the Norwegian forest near to my dad's cabin. It was just a beautiful day and so lush and the smell like fresh rain made it even more beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7677b51757bece182b3a33e15158a939b9c7521b.jpg"></article>]]></description>
+            <link>https://500px.com/photo/105562221/trees-and-moss-by-lony-meyer</link>
+            <guid isPermaLink="false">6ef0d8d6-b65c-44d9-966d-1e70050eadea</guid>
+            <pubDate>Sat, 23 Jul 2016 19:16:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
