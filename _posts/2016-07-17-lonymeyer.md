@@ -14,8 +14,8 @@ description: >-
   created that day!         I am very passionate about exotic animals; I have a
   collection of Tarantulas at home, which are cool to photograph.  I hope you
   take joy in looking at my work.
-datePublished: '2016-07-24T20:23:14.820Z'
-dateModified: '2016-07-24T20:22:47.992Z'
+datePublished: '2016-07-24T20:27:22.937Z'
+dateModified: '2016-07-24T20:27:22.547Z'
 sourcePath: _posts/2016-07-17-lonymeyer.md
 related: []
 author:
