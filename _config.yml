@@ -32,7 +32,11 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation: []
+navigation:
+  - id: cdcbeedc-501e-40a8-8592-719b95e950e2
+    url: 2015-11-16-old-paint.html
+    name: Mare Island
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70ef4a0-b355-403b-9235-072ec13cf922.png
 collections:
