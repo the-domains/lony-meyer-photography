@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T19:14:25.681Z'
+datePublished: '2016-07-24T19:43:05.882Z'
 sourcePath: _posts/2015-11-16-the-mill-shop.md
 inFeed: true
 isBasedOnUrl: 'https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer'
@@ -11,8 +11,8 @@ author:
   - name: Lony Meyer
     url: ''
 via: {}
-dateModified: '2016-07-23T19:14:25.107Z'
-title: California
+dateModified: '2016-07-24T19:43:05.503Z'
+title: The Old Woodshop
 app_links:
   - type: ios
     app_name: 500px
@@ -33,6 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# California
-
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77e1503b617af9cf92dea84dbe42f22906fdb777.jpg" /><h1>The Old Woodshop</h1><p>The Mill Shop</p></article>
