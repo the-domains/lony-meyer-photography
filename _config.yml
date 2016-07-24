@@ -1,4 +1,4 @@
-typography_spectrum: 0.2470937909092754
+typography_spectrum: 0.7734624333679676
 content_rating:
   adult: false
 color:
@@ -16,13 +16,13 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.5255771018564701
+layout_spectrum: 0.3703152108937502
 analytics:
   twitter: null
   google: UA-70164307-1
   facebook: null
 author:
-  name: Lony Meyer
+  name: ''
   email: lony@lonymeyer.com
   url: lonymeyer.com
 logo: >-
