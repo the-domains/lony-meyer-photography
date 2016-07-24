@@ -33,10 +33,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - id: cdcbeedc-501e-40a8-8592-719b95e950e2
-    url: 2015-11-16-old-paint.html
-    name: Mare Island
-    type: content
   - id: 6ef0d8d6-b65c-44d9-966d-1e70050eadea
     url: 2015-11-16-trees-and-moss.html
     name: Norway
