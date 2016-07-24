@@ -1,19 +1,9 @@
 ---
-datePublished: '2016-07-24T19:50:30.822Z'
-sourcePath: _posts/2016-07-17-lonymeyer.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-related: []
-author:
-  - name: ''
-    url: ''
-via: {}
-dateModified: '2016-07-24T19:50:30.369Z'
-title: ''
-app_links: []
-publisher: {}
 description: >-
   My name is Lony. I am from a small Island in the North Sea called Föhr,
   Germany. I have lived in California for a number of years now.      
@@ -24,9 +14,19 @@ description: >-
   created that day!         I am very passionate about exotic animals; I have a
   collection of Tarantulas at home, which are cool to photograph.  I hope you
   take joy in looking at my work.
-inLanguage: null
-inNav: true
-starred: false
+datePublished: '2016-07-24T20:23:14.820Z'
+dateModified: '2016-07-24T20:22:47.992Z'
+sourcePath: _posts/2016-07-17-lonymeyer.md
+related: []
+author:
+  - name: ''
+    url: ''
+via: {}
+title: ''
+app_links: []
+authors: []
+publisher: {}
+starred: true
 url: my-bio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
