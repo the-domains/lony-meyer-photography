@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T19:45:14.715Z'
+datePublished: '2016-07-24T19:48:25.356Z'
 sourcePath: _posts/2015-11-22-mare-island-bridge.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-24T19:45:14.374Z'
+dateModified: '2016-07-24T19:48:24.800Z'
 title: Beautiful night view looking at the Mare Island Bridge
 app_links: []
 publisher: {}
