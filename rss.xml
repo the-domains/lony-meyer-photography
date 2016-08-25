@@ -4,7 +4,7 @@
         <description><![CDATA[Lony Meyer Photography]]></description>
         <link>http://lonymeyer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 20:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 20:20:12 GMT</lastBuildDate>
         <atom:link href="http://lonymeyer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Bio]]></title>
@@ -15,7 +15,14 @@
         </item>
         <item>
             <title><![CDATA[The World's Disappearing Sand]]></title>
-            <description><![CDATA[<article><h1>The World's Disappearing Sand</h1><p>MOST Westerners facing criminal charges in Cambodia would be thanking their lucky stars at finding themselves safe in another country. But Alejandro Gonzalez-Davidson, who is half British and half Spanish, is pleading with the Phnom Penh government to allow him back to stand trial along with three Cambodian colleagues.</p><img src="https://static01.nyt.com/images/2016/06/23/opinion/23beiser/23beiser-facebookJumbo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The World's Disappearing Sand</h1><p>MOST Westerners facing criminal charges in Cambodia would be thanking their lucky stars at finding themselves safe in another country. But Alejandro Gonzalez-Davidson, who is half British and half Spanish, is pleading with the Phnom Penh government to allow him back to stand trial along with three Cambodian colleagues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02b9d58ca642795e151f8bcf7ec6414c/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F06%2F23%2Fopinion%2F23beiser%2F23beiser-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html?_r=1</link>
+            <guid isPermaLink="false">1d0f32d8-d346-4044-83d8-e24a86808dd7</guid>
+            <pubDate>Thu, 25 Aug 2016 20:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World's Disappearing Sand]]></title>
+            <description><![CDATA[<article><h1>The World's Disappearing Sand</h1><p>MOST Westerners facing criminal charges in Cambodia would be thanking their lucky stars at finding themselves safe in another country. But Alejandro Gonzalez-Davidson, who is half British and half Spanish, is pleading with the Phnom Penh government to allow him back to stand trial along with three Cambodian colleagues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02b9d58ca642795e151f8bcf7ec6414c/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F06%2F23%2Fopinion%2F23beiser%2F23beiser-facebookJumbo.jpg"></article>]]></description>
             <link>http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html?_r=1</link>
             <guid isPermaLink="false">db10e8ba-b9d3-49e7-91c1-e555e4a1b22c</guid>
             <pubDate>Thu, 25 Aug 2016 20:15:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://500px.com/photo/127481025/the-mill-wheel-by-lony-meyer</link>
             <guid isPermaLink="false">c79ba670-8571-4b76-b886-f4b875a2d791</guid>
             <pubDate>Sat, 23 Jul 2016 19:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://lonymeyerphotography.smugmug.com/Norway/n-FSW3bX/i-pzpC54b/0/XL/i-pzpC54b-XL.jpg">]]></description>
-            <link>https://lonymeyerphotography.smugmug.com/Norway/n-FSW3bX/</link>
-            <guid isPermaLink="false">32bafecd-8545-4958-b4fd-7297af45a2a8</guid>
-            <pubDate>Wed, 13 Jul 2016 21:10:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
