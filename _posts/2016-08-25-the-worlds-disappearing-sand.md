@@ -54,11 +54,11 @@ app_links:
 isBasedOnUrl: >-
   http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html?_r=1
 title: The World's Disappearing Sand
-datePublished: '2016-08-25T20:15:34.648Z'
-dateModified: '2016-08-25T20:15:09.911Z'
+datePublished: '2016-08-25T20:20:09.577Z'
+dateModified: '2016-08-25T20:20:09.381Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-the-worlds-disappearing-sand.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
