@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T20:41:09.329Z'
+datePublished: '2016-08-25T20:43:44.101Z'
 sourcePath: _posts/2016-08-25-the-worlds-disappearing-sand.md
 isBasedOnUrl: >-
   http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html?_r=1
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-25T20:41:08.967Z'
+dateModified: '2016-08-25T20:43:43.684Z'
 title: The World's Disappearing Sand
 app_links:
   - url: 'nytimes://reader/id/100000004455501'
