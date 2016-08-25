@@ -1,5 +1,6 @@
-layout_spectrum: 0.78251285222359
 typography_spectrum: 0.6061128575820476
+content_rating:
+  adult: false
 color:
   saturation: 0.43916477425955236
   brandStrength: 0.37171214492991567
@@ -11,12 +12,11 @@ color:
     - '#382513'
     - '#363942'
   rhythmicContrast: 0.3854682929813862
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.78251285222359
 analytics:
   twitter: null
   google: UA-70164307-1
@@ -54,5 +54,5 @@ collections:
       format: rss
       number: 10
 title: The Newest from the Last Trip
-description: 'Cleveland, OH'
+description: ''
 purpose: []
