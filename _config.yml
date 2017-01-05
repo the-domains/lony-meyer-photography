@@ -1,5 +1,47 @@
-title: ''
-purpose: []
+typography_spectrum: 1
+content_rating:
+  adult: false
+color:
+  saturation: 0.2572502
+  brandStrength: 0.3717121449299157
+  lightness: 0.754565
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  rhythmicContrast: 0.744898
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9661654
+analytics:
+  twitter: null
+  google: UA-70164307-1
+  facebook: null
+author:
+  name: ©Copyright 2016
+  email: lony@lonymeyer.com
+  url: lonymeyer.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/73da66f3-68cf-45b2-9961-b24e223ffb9b.png
+name: Lony Meyer Photography
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Norway
+    id: 6ef0d8d6-b65c-44d9-966d-1e70050eadea
+    type: content
+  - name: My Bio
+    id: b7389f8e-5b1b-4015-b072-cfd39223b0b0
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70ef4a0-b355-403b-9235-072ec13cf922.png
 collections:
   - index:
       path: /
@@ -12,47 +54,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: ''
+content: []
 description: ''
-color:
-  saturation: 0.2572502
-  brandStrength: 0.3717121449299157
-  lightness: 0.754565
-  brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-  rhythmicContrast: 0.744898
-navigation:
-  - name: Norway
-    id: 6ef0d8d6-b65c-44d9-966d-1e70050eadea
-    type: content
-  - name: My Bio
-    id: b7389f8e-5b1b-4015-b072-cfd39223b0b0
-    type: content
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Lony Meyer Photography
-author:
-  name: ©Copyright 2016
-  email: lony@lonymeyer.com
-  url: lonymeyer.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70ef4a0-b355-403b-9235-072ec13cf922.png
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-70164307-1
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/73da66f3-68cf-45b2-9961-b24e223ffb9b.png
-typography_spectrum: 1
-layout_spectrum: 0.9661654
-content_rating:
-  adult: false
+purpose: []
