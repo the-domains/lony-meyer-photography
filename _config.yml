@@ -56,7 +56,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: A splash of paint
+title: more coming soon...
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -80,7 +80,6 @@ content:
       keywords:
         - ''
       description: online in march 2016.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=zfBo_epJDNI&feature=applinks'
