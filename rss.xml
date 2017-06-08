@@ -1,56 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lony Meyer Photography]]></title>
-        <description><![CDATA[Lony Meyer Photography]]></description>
+        <title><![CDATA[A splash of paint]]></title>
+        <description><![CDATA[A splash of paint]]></description>
         <link>http://lonymeyer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 20:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2017 20:19:42 GMT</lastBuildDate>
         <atom:link href="http://lonymeyer.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 08 Jun 2017 20:19:40 GMT</pubDate>
         <item>
-            <title><![CDATA[My Bio]]></title>
-            <description><![CDATA[<article><h1>My Bio</h1><p>My name is Lony. I am from a small Island in the North Sea called Föhr, Germany. I have lived in California for a number of years now.       Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts. Taking photos of interesting subjects is something I enjoy doing. I take my Nikon with me anywhere I go. Sometimes I think I annoy people, but who cares something very cool can be created that day!         I am very passionate about exotic animals; I have a collection of Tarantulas at home, which are cool to photograph.  I hope you take joy in looking at my work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd045406f115e197714610fb655a13f9a1ee6b75.jpg"></article>]]></description>
+            <title><![CDATA[Lony’s Bio]]></title>
+            <description><![CDATA[<h1>Lony’s Bio</h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd045406f115e197714610fb655a13f9a1ee6b75.jpg"><p>My name is Lony. I am from a small Island in the North Sea called F&ouml;hr, Germany. I have lived in California for a number of years now.       Photography has always been a passion of mine but not until recent years have I become more serious about the visual arts. Taking photos of interesting subjects is something I enjoy doing. I take my Nikon with me anywhere I go. Sometimes I think I annoy people, but who cares something very cool can be created that day!         I am very passionate about exotic animals; I have a collection of Tarantulas at home, which are cool to photograph.  I hope you take joy in looking at my work.</p></article>]]></description>
             <link>http://lonymeyer.com/my-bio/index.html</link>
             <guid isPermaLink="false">b7389f8e-5b1b-4015-b072-cfd39223b0b0</guid>
             <pubDate>Sun, 24 Jul 2016 20:31:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://lonymeyerphotography.smugmug.com/Norway/n-FSW3bX/i-pzpC54b/0/XL/i-pzpC54b-XL.jpg">]]></description>
+            <link>https://lonymeyerphotography.smugmug.com/Norway/n-FSW3bX/</link>
+            <guid isPermaLink="false">e2aa496a-fdca-48f4-9d07-fe5553f1a344</guid>
+            <pubDate>Thu, 08 Jun 2017 20:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New AI]]></title>
+            <description><![CDATA[<h1>The New AI</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ad22820-19e7-46d1-a12e-818077282e29.jpg">,<p>This is a new way of designing a website, check out <a href="https://thegrid.io/" title="The Grid">The Grid</a>.</p>]]></description>
+            <link>http://lonymeyer.com/the-new-ai/index.html</link>
+            <guid isPermaLink="false">51a51f32-3371-454b-a574-1c4dbd4b572b</guid>
+            <pubDate>Thu, 01 Jun 2017 20:37:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beautiful night view looking at the Mare Island Bridge]]></title>
-            <description><![CDATA[<article><h1>Beautiful night view looking at the Mare Island Bridge</h1><p>Mare Island Bridge</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b32255321e80cb38f9db87a240cea2be78523a4.jpg"></article>]]></description>
+            <description><![CDATA[<p>Mare Island Bridge</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b32255321e80cb38f9db87a240cea2be78523a4.jpg"><h1>Beautiful night view looking at the Mare Island Bridge</h1></article>]]></description>
             <link>http://lonymeyer.com/beautiful-night-view-looking-at-the-mare-island-bridge/index.html</link>
             <guid isPermaLink="false">363ab067-986b-4b45-90bb-15dcca9b3f0c</guid>
             <pubDate>Tue, 26 Jul 2016 19:57:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Old Woodshop]]></title>
-            <description><![CDATA[<article><h1>The Old Woodshop</h1><p>The Mill Shop</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77e1503b617af9cf92dea84dbe42f22906fdb777.jpg"></article>]]></description>
+            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77e1503b617af9cf92dea84dbe42f22906fdb777.jpg"><h1>The Old Woodshop</h1><p>The Mill Shop</p></article>]]></description>
             <link>https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer</link>
             <guid isPermaLink="false">b455a855-4f65-4c2f-a51a-cfd24beb9df2</guid>
             <pubDate>Tue, 26 Jul 2016 19:57:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norway]]></title>
-            <description><![CDATA[<article><h1>Norway</h1><p>This was the most magical experience while hiking through the Norwegian forest near to my dad's cabin. It was just a beautiful day and so lush and the smell like fresh rain made it even more beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7677b51757bece182b3a33e15158a939b9c7521b.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Norway</h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7677b51757bece182b3a33e15158a939b9c7521b.jpg"><h1>Trees &amp; Moss</h1></article>,<p>This was the most magical experience while hiking through the Norwegian forest near to my dad's cabin. It was just a beautiful day and so lush and the smell like fresh rain made it even more beautiful.</p>]]></description>
             <link>http://lonymeyer.com/norway/index.html</link>
             <guid isPermaLink="false">6ef0d8d6-b65c-44d9-966d-1e70050eadea</guid>
             <pubDate>Sun, 24 Jul 2016 21:01:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norway]]></title>
-            <description><![CDATA[<article><h1>Norway</h1><p>Old Church somewhere in Norway</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e17083333e40e429daa003cb1ef7ee00cbb99e.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Norway</h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e17083333e40e429daa003cb1ef7ee00cbb99e.jpg"><p>Old Church somewhere in Norway</p></article>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac552ea8eed88a85c0d2dbaca82de58ef33bec8.jpg" alt="Cloudberry">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada592-e966-467b-8705-690e4a6f9f82.jpg" alt="Kviknes Hotel in Balestrand Norway.">]]></description>
             <link>https://500px.com/photo/105452797/old-church-by-lony-meyer</link>
             <guid isPermaLink="false">d9c03e91-cb1e-403d-b3a6-ac2a4371c40e</guid>
             <pubDate>Sun, 24 Jul 2016 20:51:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mare Island]]></title>
-            <description><![CDATA[<article><h1>Mare Island</h1><p>Picture of part of an old door at an industrial building on Mare Island.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f60887c179d4b48ccf7294e17f630b1f19cedb83.jpg"></article>]]></description>
+            <description><![CDATA[<h2>Mare Island</h2>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f60887c179d4b48ccf7294e17f630b1f19cedb83.jpg"><p>Picture of part of an old door at an industrial building on Mare Island.</p></article>]]></description>
             <link>http://lonymeyer.com/mare-island/index.html</link>
             <guid isPermaLink="false">cdcbeedc-501e-40a8-8592-719b95e950e2</guid>
             <pubDate>Sun, 24 Jul 2016 20:26:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Norway]]></title>
+            <description><![CDATA[<h1>Norway</h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d35ba2e7ba8c6236ccab628e6cd8ac60f953c3a2.jpg"><h1>Kviknes Hotel</h1><p>Kviknes Hotel in Balestrand Norway.</p></article>]]></description>
+            <link>http://lonymeyer.com/norway/index.html</link>
+            <guid isPermaLink="false">ccf1a26e-6fc4-4e9a-9b67-c7122a62f0f9</guid>
+            <pubDate>Sat, 23 Jul 2016 19:57:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Mill Wheel]]></title>
-            <description><![CDATA[<article><h1>The Mill Wheel</h1><p>There lies the old Mill by the Road.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15aa40d39203f74519de94c4e6cbb07b512c803c.jpg"></article>]]></description>
+            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15aa40d39203f74519de94c4e6cbb07b512c803c.jpg"><h1>The Mill Wheel</h1><p>There lies the old Mill by the Road.</p></article>]]></description>
             <link>https://500px.com/photo/127481025/the-mill-wheel-by-lony-meyer</link>
             <guid isPermaLink="false">c79ba670-8571-4b76-b886-f4b875a2d791</guid>
             <pubDate>Sat, 23 Jul 2016 19:49:17 GMT</pubDate>
