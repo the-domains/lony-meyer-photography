@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-06-08T21:13:07.215Z'
+datePublished: '2017-06-08T23:00:57.664Z'
 sourcePath: _posts/2015-11-16-old-church.md
 inFeed: true
 isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-06-08T21:13:06.460Z'
+dateModified: '2017-06-08T23:00:57.072Z'
 title: Norway
 app_links:
   - type: ios
