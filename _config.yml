@@ -25,7 +25,7 @@ analytics:
   google: UA-70164307-1
   facebook: null
 author:
-  name: ©Copyright 2016
+  name: ©Copyright 2015-2017
   email: lony@lonymeyer.com
   url: lonymeyer.com
 logo: >-
@@ -56,31 +56,13 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: A splash of old paint
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9997bf2-4568-477e-967b-7a4972da709a.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9997bf2-4568-477e-967b-7a4972da709a.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: Old paint from Bradbury & Bradbury
-purpose: []
+title: A splash of paint
+content: []
+description: Discover the new colors
+purpose:
+  - type: contact
+    url: 'mailto:lony@lonymeyer.com'
+    label: Contact me
+  - type: external
+    url: 'https://lonymeyerphotography.smugmug.com/'
+    label: View my Portfolio
