@@ -125,7 +125,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Discover the new colors
+description: ''
 purpose:
   - type: contact
     url: 'mailto:lony@lonymeyer.com'
