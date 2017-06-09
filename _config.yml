@@ -1,5 +1,6 @@
-layout_spectrum: 0.4569343740544697
 typography_spectrum: 0.6593957750440235
+content_rating:
+  adult: false
 color:
   saturation: 0.24570511092007677
   brandStrength: 0.9028731837559787
@@ -11,15 +12,12 @@ color:
     - '#32331D'
     - '#C03000'
   rhythmicContrast: 0.9880575901590803
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4569343740544697
 analytics:
   twitter: null
   google: UA-70164307-1
@@ -41,6 +39,9 @@ navigation:
     type: content
   - name: My Bio
     id: b7389f8e-5b1b-4015-b072-cfd39223b0b0
+    type: content
+  - name: California
+    id: c79ba670-8571-4b76-b886-f4b875a2d791
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/30b0197b-ef5a-4fa0-8cc8-77e024f93fb1.png
@@ -67,19 +68,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/zfBo_epJDNI'
+      keywords:
+        - ''
+      related: []
       author:
         - name: Marc Gammon
           url: 'https://www.youtube.com/channel/UCeKFynvxieLCJ3f0izEWi5A'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
-      keywords:
-        - ''
-      description: online in march 2016.
+      '@context': 'http://schema.org'
+      title: website under construction...
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=zfBo_epJDNI&feature=applinks'
@@ -118,13 +117,17 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/zfBo_epJDNI'
-      title: website under construction...
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: online in march 2016.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: ''
 purpose:
   - type: contact
