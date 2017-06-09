@@ -125,7 +125,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 coverPrefs:
   filter: false
-description: more coming soon...
+description: ''
 purpose:
   - type: contact
     url: 'mailto:lony@lonymeyer.com'
