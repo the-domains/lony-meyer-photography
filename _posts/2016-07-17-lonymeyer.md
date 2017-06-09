@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-06-09T00:27:45.418Z'
+datePublished: '2017-06-09T00:28:14.612Z'
 sourcePath: _posts/2016-07-17-lonymeyer.md
 inFeed: true
 authors: []
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-06-09T00:27:44.354Z'
+dateModified: '2017-06-09T00:28:14.056Z'
 title: My Bio
 app_links: []
 publisher: {}
