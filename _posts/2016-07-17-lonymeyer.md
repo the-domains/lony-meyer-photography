@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-06-09T00:32:02.326Z'
+datePublished: '2017-06-09T00:34:38.783Z'
 sourcePath: _posts/2016-07-17-lonymeyer.md
 inFeed: true
 authors: []
@@ -10,8 +10,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-06-09T00:32:01.299Z'
-title: '                               My Bio'
+dateModified: '2017-06-09T00:34:38.155Z'
+title: My Bio
 app_links: []
 publisher: {}
 description: ''
@@ -26,4 +26,4 @@ _type: MediaObject
 ## My Bio
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/851202bb-44d4-4da2-894a-fa3518c60783.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzNlMFu2zAMhu97in8d0F5St1tPjbNcBmwIsBUD2hegHSZSI4mCJMf1nn5U6hV9g-UoiqL4kT-5ishlcvz1ovBLuSZn92GJnkPh1F6sVzlS-Oexk1Cus_3DS3z-EkuLk2FH3rppiatehmQ5IfB4tcB8WsBLEI3Sc6s2J2mJT_f3d3e3txr-14RAnmEzfkqYGmxAHrskHoTsyTlssqOwhQ0ohvEgqRg8MqHXS97i-6UM3rVGP_rByVMNsrqpWa9XN3H9YfVf-TYwdGQ4e-QTwjf9fycpWNLYSRnD4DsNKTtMTCkjyNjgt5Ei-0TRTPo-g9xIU0bHHM6IjRApZyuhZu9tYHRDUYCCIRTrkLhmMnOdyrBRhF603V4SI3OyMihdJ_rufLiqzI42D-RAqeQGT3SwYY9Yu5IrrK2JcC7VmofumfuSq4SzshVTrRtweJYJW9HTeQmy0EEbMOHBHrR1o9Vx0o7o3IxGoTTzvTR4rCTWc9ZzJTrUwQxBiSJLdLw4I6SqutGILgTtybseHDlN6i1Ob4IqD31iKjqHxVDBlqaPr9vm5DdLWe_PiOx1MvhFiu21_Fb3YW4x7xSq_k6lN0_gEyUKZXB1XxQYLcNCy2J7oyrm1zoUOSO4-LbkGlyGLsdWwSQyJhnm6dGF6UROw6dIqtlR0qF5h_AXKD5N_w" height="600" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9lEFuGzEMRa_ymwJZ2U7arGK72RRoYaANCiQX4Iw5lmyNOJA4nqinL2U7RS9QLyVR0iP1qPWArCXwlxvlN51T8Lu4xH7M6ruyunla54Hie0gnUefZ_-YlPn0edIXTREe9D2UJx-HI6luagZKnMEOmmOeZk-9WaCVIWuLj4-PDw_29nfyzIFLP8Bk_JJYFNqAeXZIehNxTCNjkQHELH6GO8SxJHV6Y0Noib_HtVsY-rFya4TunnuyQ29jkYbW-q9T_kX0DR0dG8Ec-4X21unWSoic7Nhl_HPuGE6RDYUoZUaYFfjlR2SUaXLH9GRQmKhkNc7wSN2GgnL3EStb7yGhGNTjFGNUHJG456oX5lOLG8FqxZ-olMeq5Mhp5I6Neibk-_dHnkYKFa17glQ4-7jDUauaaiI_Kic1Ym81js-dWc9UqG7e6OrsBx70UbMVG15NE6WCFK3j2Byv55E1fq6R5OjkDNqqdLPBSKX3P2caV9lAbIUajHViGwLMr4VYTJifWXFbLf2p35FQsWoKtRLMBbWJS814dKbZUPpw79xR30cvWr2V0NRH8JrbFyubt38grXPqTanwwHS7Gv1KiqGOovadwluLMUvats6v4nKPKlcCHv5_BAucrDVoGRpHxYqt9LEHkJLvhmkeTpMPinexuePoDSZX62w" height="600" style=""></iframe>
