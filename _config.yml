@@ -37,11 +37,11 @@ navigation:
   - name: My Bio
     id: b7389f8e-5b1b-4015-b072-cfd39223b0b0
     type: content
-  - name: Norway
-    id: 6ef0d8d6-b65c-44d9-966d-1e70050eadea
-    type: content
   - name: California
     id: c79ba670-8571-4b76-b886-f4b875a2d791
+    type: content
+  - name: Norway
+    id: 6ef0d8d6-b65c-44d9-966d-1e70050eadea
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/30b0197b-ef5a-4fa0-8cc8-77e024f93fb1.png
