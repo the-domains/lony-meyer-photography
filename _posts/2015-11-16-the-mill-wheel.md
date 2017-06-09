@@ -1,14 +1,13 @@
 ---
-datePublished: '2016-07-23T19:49:17.167Z'
+datePublished: '2017-06-09T00:13:42.169Z'
 sourcePath: _posts/2015-11-16-the-mill-wheel.md
 inFeed: true
-isBasedOnUrl: 'https://500px.com/photo/127481025/the-mill-wheel-by-lony-meyer'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-23T19:49:16.426Z'
+dateModified: '2017-06-09T00:13:40.770Z'
 title: The Mill Wheel
 app_links:
   - type: ios
@@ -20,17 +19,13 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-publisher:
-  name: 500px
-  domain: 500px.com
-  url: 'https://500px.com'
-  favicon: >-
-    https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico
+publisher: {}
 description: There lies the old Mill by the Road.
 inLanguage: null
-inNav: false
 via: {}
 starred: false
+datePublishedOriginal: '2016-07-23T19:49:17.167Z'
+url: the-mill-wheel/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
