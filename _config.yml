@@ -57,9 +57,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: >-
-  <p><span style="font-size: 18pt; font-family: impact, sans-serif; color:
-  #008000;">more coming soon...</span></p>
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
