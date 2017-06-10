@@ -9,7 +9,7 @@ app_links:
     app_store_id: '471965292'
     url: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
     type: android
-datePublished: '2017-06-10T18:19:45.836Z'
+datePublished: '2017-06-10T18:22:23.197Z'
 authors: []
 description: Old Church somewhere in Norway
 via: {}
@@ -17,7 +17,7 @@ isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-06-10T18:19:36.774Z'
+dateModified: '2017-06-10T18:22:11.302Z'
 related: []
 sourcePath: _posts/2015-11-16-old-church.md
 title: Norway
