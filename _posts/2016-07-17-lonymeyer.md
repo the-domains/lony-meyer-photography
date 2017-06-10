@@ -1,6 +1,6 @@
 ---
 app_links: []
-datePublished: '2017-06-10T18:33:26.163Z'
+datePublished: '2017-06-10T18:34:29.452Z'
 authors: []
 description: >-
   <p style="text-align: justify;"><span style="font-size: 12pt; font-family:
@@ -27,7 +27,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-06-10T18:33:23.479Z'
+dateModified: '2017-06-10T18:34:27.544Z'
 related: []
 sourcePath: _posts/2016-07-17-lonymeyer.md
 title: My Bio
