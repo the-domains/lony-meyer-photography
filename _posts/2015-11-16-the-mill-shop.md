@@ -1,8 +1,4 @@
 ---
-description: The Mill Shop
-publisher:
-  name: ''
-title: The Old Woodshop
 app_links:
   - type: ios
     app_name: 500px
@@ -13,22 +9,22 @@ app_links:
     app_store_id: '471965292'
     url: 'https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer'
     type: android
-isBasedOnUrl: 'https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer'
-keywords: []
-inLanguage: null
-sourcePath: _posts/2015-11-16-the-mill-shop.md
+datePublished: '2017-06-10T18:30:56.667Z'
 authors: []
-hasPage: false
+isBasedOnUrl: 'https://500px.com/photo/127481031/the-mill-shop-by-lony-meyer'
 via: {}
-inNav: false
-dateModified: '2016-07-26T19:56:47.236Z'
-related: []
-datePublished: '2016-07-26T19:57:03.648Z'
+description: The Mill Shop
+keywords: []
 inFeed: true
-author:
-  - name: ''
-    url: ''
+publisher: {}
+dateModified: '2017-06-10T18:30:54.304Z'
+related: []
+sourcePath: _posts/2015-11-16-the-mill-shop.md
+title: The Old Woodshop
+hasPage: false
+author: []
 starred: false
+datePublishedOriginal: '2016-07-26T19:57:03.648Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
