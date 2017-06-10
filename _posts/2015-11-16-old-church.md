@@ -1,29 +1,28 @@
 ---
-datePublished: '2017-06-08T23:00:57.664Z'
-sourcePath: _posts/2015-11-16-old-church.md
-inFeed: true
-isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
-authors: []
-hasPage: false
-keywords: []
-related: []
-author: []
-via: {}
-dateModified: '2017-06-08T23:00:57.072Z'
-title: Norway
 app_links:
   - type: ios
     app_name: 500px
   - url: 'px://500px.com/photo/105452797'
     type: ios
     app_name: 500px
-  - url: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
-    type: android
+  - package: com.fivehundredpx.viewer
     app_store_id: '471965292'
-    package: com.fivehundredpx.viewer
-publisher: {}
+    url: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
+    type: android
+datePublished: '2017-06-10T18:19:45.836Z'
+authors: []
 description: Old Church somewhere in Norway
-inLanguage: null
+via: {}
+isBasedOnUrl: 'https://500px.com/photo/105452797/old-church-by-lony-meyer'
+keywords: []
+inFeed: true
+publisher: {}
+dateModified: '2017-06-10T18:19:36.774Z'
+related: []
+sourcePath: _posts/2015-11-16-old-church.md
+title: Norway
+hasPage: false
+author: []
 starred: false
 datePublishedOriginal: '2016-07-24T20:51:18.352Z'
 _context: 'http://schema.org'
@@ -37,4 +36,4 @@ _type: MediaObject
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUV1v2zAM_CtEB_TJST_QAUGS5aXDug1bXzbsnZZli61CGiIVz_v1k6PmoRAgQMfD3VG3H0Ftjv7Tlfm_tsJIA2_hJatRP--uDnsdkS8UJ1HSFj7c3m7K2UEvbCulf34Ld_ejvQE9HinOWzAMcsQGMBHGBoKPJ2_kCqLIulKfqD87WBIeDr-Dhz_0qh1Gz_AYcnIB9jdvU1KwQjgi8TW3Ou7GIqsB3JlXocvoCXPEBD8zk6OxrGTze8IvGRhkgC8vkjpkX1EnmW1u6uNZ0oTzGr4ZFOsoDs13QHxOcaIYcfAgfSWX2GtY8k-BzDcwiXRlh5qtWdCySkCF-80DqEfTAqJebFm9S4t-BYThIzzLyR9bn-Bu87CBdobPvvTwXUK5n9K1aEQNO-aYuave1W3RhTFJi22coc0UDbISD6UGt6RzlhNG6BJOBdUiXV2_lk7gB7GaTOvy7aX2w_5mPPwHtGjBBQ" height="244" style=""></iframe>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac552ea8eed88a85c0d2dbaca82de58ef33bec8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada592-e966-467b-8705-690e4a6f9f82.jpg)
+![ in Balestrand Norway](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ada592-e966-467b-8705-690e4a6f9f82.jpg)
